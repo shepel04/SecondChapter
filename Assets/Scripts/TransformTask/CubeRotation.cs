@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Serialization;
 
-namespace Transform
+namespace TransformTask
 {
     public class CubeRotation : MonoBehaviour
     {
